@@ -35,3 +35,6 @@ document.getElementById("myP").innerHTML = "My first paragraph.";
 
 </body>
 </html>
+
+// the hello world program
+document.write('Hello, World!');
